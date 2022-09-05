@@ -1,4 +1,4 @@
-# Car_Rental_Sys
+# Car Rental Sytem
 Database Project with Apache Server + PHP + MySQL database on AWS
 
 ### Security Features:
